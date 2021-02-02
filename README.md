@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <header>
- 
+</header>
 <body>
 
 <h1>opgave 1</h1>
