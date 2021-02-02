@@ -3,8 +3,8 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>opgave 1</h1>
+<p>gruppe 1.</p>
 
 </body>
 </html>
